@@ -1,0 +1,6 @@
+{
+  "name": "Streeto",
+  "description": "Street food delivery inspired by Zomato with local vendors and live order tracking",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
